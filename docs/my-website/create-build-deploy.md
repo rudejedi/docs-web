@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # How I created my website
 
+This website was created using [**Docusaurus**](https://docusaurus.io) framework.
+
 ## Create
 
 First, I used the following command to create the docusaurus template in a folder locally. I am using the folder name as `git-repo` to refer here. This folder will also be used to create a repository of the same name on Github.
