@@ -38,7 +38,7 @@ Used the following settings in the docusaurus [config file](./../../docusaurus.c
 
 ```json
   url: "https://rudejedi.github.io",
-  baseUrl: "/",
+  baseUrl: "/docs-web/",
   organizationName: "rudejedi",
   projectName: "docs-web",
 ```
