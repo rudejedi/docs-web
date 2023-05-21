@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_web=self.webpackChunkdocs_web||[]).push([[699],{8606:e=>{e.exports=JSON.parse('[{"label":"selhost","permalink":"/docs-web/blog/tags/selhost","count":1},{"label":"linux","permalink":"/docs-web/blog/tags/linux","count":1},{"label":"docker","permalink":"/docs-web/blog/tags/docker","count":1}]')}}]);
