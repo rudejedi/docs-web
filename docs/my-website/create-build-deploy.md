@@ -64,7 +64,7 @@ First, I used the following settings in the docusaurus [config file](./../../doc
   projectName: "git-repo",
 ```
 
-Secondly, I used the following command, since I use SSH keys for GitHub deployment.
+Secondly, I used the following command, since I use [SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for GitHub deployment.
 
 ```bash
 $ USE_SSH=true yarn deploy
