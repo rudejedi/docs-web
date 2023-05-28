@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         This website constains documentaion for some the services that can be
-        easily selfhosted to replace the popular propeitory ones.
+        easily selfhosted to replace the popular proprietary ones.
       </>
     ),
   },
