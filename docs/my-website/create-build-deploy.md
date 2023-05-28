@@ -64,7 +64,7 @@ First, I used the following settings in the docusaurus [config file](./../../doc
   projectName: "git-repo",
 ```
 
-Secondly, I used the following command, since I use SSH keys for GitHub depoloyment.
+Secondly, I used the following command, since I use SSH keys for GitHub deployment.
 
 ```bash
 $ USE_SSH=true yarn deploy
@@ -72,8 +72,8 @@ $ USE_SSH=true yarn deploy
 
 This command will build the website and push to the `gh-pages` branch. After sometime, the website comes available at my [GitHub Pages](https://rudejedi.github.io/docs-web/).
 
-If GitHub [personal acess tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) are used insted of SSH , then the following command can be used for deployment.
+If GitHub [personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) are used instead of SSH , then the following command can be used for deployment.
 
 ```bash
-$ GIT_USER=<GitHub username> yarn deploy
+$ GIT_USER=<github-username> yarn deploy
 ```
