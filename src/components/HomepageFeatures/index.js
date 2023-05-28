@@ -17,7 +17,7 @@ const FeatureList = [
     title: "My Blog",
     Svg: require("@site/static/img/post-outline.svg").default,
     description: (
-      <>There is also a blog section where you I put my ideas/thoughts.</>
+      <>There is also a blog section where I put my ideas/thoughts.</>
     ),
   },
 ];

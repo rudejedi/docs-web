@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # How I configured my website
 
-After the website was created as given in this [page](create-build-deploy.md), I used the configurations as given below.
+After the website was created and deployed as given in this [page](create-build-deploy.md), I used the configurations as given below.
 
 More details are available at docusaurus [documentation](https://docusaurus.io/docs) site.
 
