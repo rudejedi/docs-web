@@ -54,7 +54,7 @@ Now, we can deploy the `build` folder as per the **[Deployment Guide](https://do
 
 I deployed my website in _GitHub Pages_ using the following steps.
 
-First, I used the following settings in the docusaurus [config file](./../../docusaurus.config.js):
+First, I used the following settings in the docusaurus `docusaurus.config.js` file:
 
 ```json
   url: "https://<github-username>.github.io",
