@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Selfhosting Docs",
   tagline: "Docs are cool",
-  favicon: "img/favicon.ico",
+  favicon: "img/notebook.svg",
 
   // Set the production url of your site here
   url: "https://rudejedi.github.io",
@@ -66,7 +66,7 @@ const config = {
         title: "Selfhosting Docs",
         logo: {
           alt: "My Site Logo",
-          src: "img/book-opened-svgrepo-com.svg",
+          src: "img/text-box-multiple-outline.svg",
         },
         items: [
           {
