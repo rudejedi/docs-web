@@ -96,7 +96,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Selfhosted Docs. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} RudeJedi. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
